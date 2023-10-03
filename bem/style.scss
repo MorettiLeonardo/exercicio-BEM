@@ -14,14 +14,14 @@
 }
 
 .produto {
-    &-imagem {
+    &__imagem {
         width: 100%;
     }
-    &-nome {
+    &__nome {
         font-size: 1.2em;
         margin: 8px 0;
     }
-    &-descricao {
+    &__descricao {
         color: gray;
     }
     &--em-destaque {
